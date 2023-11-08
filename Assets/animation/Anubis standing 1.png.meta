@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c855f4378dc0f394187e534ce67e21e5
+guid: 9a54305339c58a04ea3e2f85537492c3
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,7 +110,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Anubis running-Sheet_0
+      name: Anubis standing 1_0
       rect:
         serializedVersion: 2
         x: 0
@@ -124,14 +124,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0bc59f7023971ca46982a217d978d637
-      internalID: -701615807
+      spriteID: 9609e070b4886b540998b214f8ef13df
+      internalID: 1733640209
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anubis running-Sheet_1
+      name: Anubis standing 1_1
       rect:
         serializedVersion: 2
         x: 82
@@ -145,14 +145,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c5eff063c767bef46826e6c63f49d85d
-      internalID: -1128145683
+      spriteID: 2d8a03efc53b615439127904baaf722c
+      internalID: -1099058398
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anubis running-Sheet_2
+      name: Anubis standing 1_2
       rect:
         serializedVersion: 2
         x: 164
@@ -166,14 +166,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0539cccd1c8336047bc275ceb164530a
-      internalID: 1219329209
+      spriteID: e32d831ec4db65f42b3d9bff79a9de45
+      internalID: -1089448953
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anubis running-Sheet_3
+      name: Anubis standing 1_3
       rect:
         serializedVersion: 2
         x: 246
@@ -187,14 +187,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9b677ab45ddad1c45be340f4fb55a274
-      internalID: 1230308158
+      spriteID: e13d88d40958596409f62ac013fbaf74
+      internalID: -295052793
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anubis running-Sheet_4
+      name: Anubis standing 1_4
       rect:
         serializedVersion: 2
         x: 328
@@ -208,71 +208,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9767c186b10599e4faca401fbcc479ec
-      internalID: 80884798
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Anubis running-Sheet_5
-      rect:
-        serializedVersion: 2
-        x: 410
-        y: 0
-        width: 82
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 82fa55695d2b59d4b926fa3f9209723a
-      internalID: 1116211091
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Anubis running-Sheet_6
-      rect:
-        serializedVersion: 2
-        x: 492
-        y: 0
-        width: 82
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8024f8ea66e2e934690a459792db4ed9
-      internalID: -316172407
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Anubis running-Sheet_7
-      rect:
-        serializedVersion: 2
-        x: 574
-        y: 0
-        width: 82
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5262804b9ec7851488357b7664447807
-      internalID: -801273178
+      spriteID: b8fb4983d04417345bf39525ab386923
+      internalID: 1627671385
       vertices: []
       indices: 
       edges: []
@@ -288,14 +225,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Anubis running-Sheet_0: -701615807
-      Anubis running-Sheet_1: -1128145683
-      Anubis running-Sheet_2: 1219329209
-      Anubis running-Sheet_3: 1230308158
-      Anubis running-Sheet_4: 80884798
-      Anubis running-Sheet_5: 1116211091
-      Anubis running-Sheet_6: -316172407
-      Anubis running-Sheet_7: -801273178
+      Anubis standing 1_0: 1733640209
+      Anubis standing 1_1: -1099058398
+      Anubis standing 1_2: -1089448953
+      Anubis standing 1_3: -295052793
+      Anubis standing 1_4: 1627671385
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

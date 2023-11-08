@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 15ddd65a2590b8645b7c2b3abe48b259
+guid: 83d86645c25857145b53a11271771bc7
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 82
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -110,106 +110,85 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Anubis standing_0
+      name: other stuf_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f62bdac2d628241899f59c6201928e
+      internalID: 1648082588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other stuf_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4c244136c3ec645bf0a902f815ba56
+      internalID: -543196062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other stuf_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b586e39a24a82b49bbd0a2392d40115
+      internalID: -713207543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: other stuf_3
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 82
-        height: 82
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 55c13b8f70e8eda4f82136ce22cc51dd
-      internalID: -100805697
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Anubis standing_1
-      rect:
-        serializedVersion: 2
-        x: 82
-        y: 0
-        width: 82
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 471b74db55f72bb44a43deadd093fc7a
-      internalID: 1513342088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Anubis standing_2
-      rect:
-        serializedVersion: 2
-        x: 164
-        y: 0
-        width: 82
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 503a298c1931e3542943ee948bb7f897
-      internalID: -2002768606
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Anubis standing_3
-      rect:
-        serializedVersion: 2
-        x: 246
-        y: 0
-        width: 82
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4a31cabede3354d49af7a6fa3e60ceb4
-      internalID: 38119999
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Anubis standing_4
-      rect:
-        serializedVersion: 2
-        x: 328
-        y: 0
-        width: 82
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 736c25f04eabf3044bdd59edf7a0e478
-      internalID: 1509328916
+      spriteID: 75b7d73aa46c32a48a592057739728e7
+      internalID: 2052047350
       vertices: []
       indices: 
       edges: []
@@ -225,11 +204,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Anubis standing_0: -100805697
-      Anubis standing_1: 1513342088
-      Anubis standing_2: -2002768606
-      Anubis standing_3: 38119999
-      Anubis standing_4: 1509328916
+      other stuf_0: 1648082588
+      other stuf_1: -543196062
+      other stuf_2: -713207543
+      other stuf_3: 2052047350
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
