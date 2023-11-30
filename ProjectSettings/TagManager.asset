@@ -9,6 +9,7 @@ TagManager:
   - end
   - Goldnugget
   - Soulless
+  - Box
   layers:
   - Default
   - TransparentFX
