@@ -373,7 +373,7 @@ AnimatorStateTransition:
   m_Conditions:
   - m_ConditionMode: 3
     m_ConditionEvent: xVelocity
-    m_EventTreshold: 0.01
+    m_EventTreshold: 0.1
   - m_ConditionMode: 1
     m_ConditionEvent: getGrounded
     m_EventTreshold: 0
@@ -413,7 +413,7 @@ AnimatorStateTransition:
   m_Conditions:
   - m_ConditionMode: 3
     m_ConditionEvent: xVelocity
-    m_EventTreshold: 0.01
+    m_EventTreshold: 0.1
   - m_ConditionMode: 1
     m_ConditionEvent: getGrounded
     m_EventTreshold: 0
