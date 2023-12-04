@@ -11,6 +11,9 @@ TagManager:
   - Soulless
   - Box
   - Soul
+  - door
+  - Platformschalter
+  - BoxPlatform
   layers:
   - Default
   - TransparentFX

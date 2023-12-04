@@ -53,7 +53,7 @@ AudioMixerController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: NewAudioMixer
+  m_Name: AudioMixer
   m_OutputGroup: {fileID: 0}
   m_MasterGroup: {fileID: 24300002}
   m_Snapshots:
@@ -66,7 +66,7 @@ AudioMixerController:
   - guid: 6dd82e30e8b6c4d4eab1a31c905648b4
     name: MasterVolume
   - guid: 10df280bc28e8413098d2eb563ed59b0
-    name: MusikVolume
+    name: MusicVolume
   - guid: c05b7eec8a6a14cf2903ec5aaab0b78f
     name: SoundeffectVolume
   m_AudioMixerGroupViews:
