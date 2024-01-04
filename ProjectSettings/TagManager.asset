@@ -14,6 +14,7 @@ TagManager:
   - door
   - Platformschalter
   - BoxPlatform
+  - Platform
   layers:
   - Default
   - TransparentFX
