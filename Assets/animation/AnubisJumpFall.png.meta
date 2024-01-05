@@ -110,43 +110,22 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: AnubisJumpFall_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 87
-        height: 87
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0d0403f7d50acbd44b182a537cf4d08c
-      internalID: -1501052418
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: AnubisJumpFall_1
       rect:
         serializedVersion: 2
         x: 87
-        y: 0
+        y: 9
         width: 87
         height: 87
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 846296c5f274ca84abde000e30c3ce4f
-      internalID: 1797123822
+      spriteID: 7fed854cc1c5eed4cb4706e11d256172
+      internalID: -1560420998
       vertices: []
       indices: 
       edges: []
@@ -156,18 +135,18 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 174
-        y: 0
+        y: 9
         width: 87
         height: 87
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 478525d82a742834d94bed52739377ce
-      internalID: -1346899904
+      spriteID: e5a87e686f66b5e46af2c23740ac3060
+      internalID: 1510573530
       vertices: []
       indices: 
       edges: []
@@ -177,18 +156,18 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 261
-        y: 0
+        y: 9
         width: 87
         height: 87
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aed297927e475fe4b8569c1ff5297dea
-      internalID: -1627971683
+      spriteID: b577629e6e3428b409e3416129727a76
+      internalID: -1684960221
       vertices: []
       indices: 
       edges: []
@@ -198,18 +177,18 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 348
-        y: 0
+        y: 9
         width: 87
         height: 87
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 73fb757e7ac5f29478256716aea87337
-      internalID: -871510187
+      spriteID: 74c028cb464959e41a21fba9dcc7ce76
+      internalID: 167054311
       vertices: []
       indices: 
       edges: []
@@ -219,18 +198,18 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 435
-        y: 0
+        y: 9
         width: 87
         height: 87
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c496560a49653504fb44c0dbd4077af8
-      internalID: 800048870
+      spriteID: 92c376a8d3f3b2044953cd35ff274b1c
+      internalID: 917870227
       vertices: []
       indices: 
       edges: []
@@ -240,18 +219,18 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 522
-        y: 0
+        y: 9
         width: 87
         height: 87
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.47126436, y: 0.47126436}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3cca0d0810f93504db3f648c170950d0
-      internalID: -214286458
+      spriteID: c5014ca1551f12945af8f7a479932f75
+      internalID: 1112412439
       vertices: []
       indices: 
       edges: []
@@ -261,18 +240,18 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 609
-        y: 0
+        y: 9
         width: 87
         height: 87
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.47126436, y: 0.47126436}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70325a0478b839740ba236cea3a03625
-      internalID: -871094442
+      spriteID: 0f3d624b1ad211744b08c9876ea2614a
+      internalID: -1448816077
       vertices: []
       indices: 
       edges: []
@@ -282,18 +261,18 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 696
-        y: 0
+        y: 9
         width: 87
         height: 87
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.47126436, y: 0.47126436}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1784a6d6899f45a43b98f86aca7b09e2
-      internalID: -455697274
+      spriteID: 729fc8502d8472c4aa8da31ea2e8938a
+      internalID: -1220181735
       vertices: []
       indices: 
       edges: []
@@ -303,39 +282,18 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 783
-        y: 0
+        y: 9
         width: 87
         height: 87
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.47126436, y: 0.47126436}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e7288fabc6980e4597ff1f69d181079
-      internalID: 407363692
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AnubisJumpFall_10
-      rect:
-        serializedVersion: 2
-        x: 870
-        y: 0
-        width: 87
-        height: 87
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 51f56eb419ec21a4fbfd370b0cf819fd
-      internalID: -1543063053
+      spriteID: b19b90727c3e3174dbfebe5a2d1c49c6
+      internalID: 1720081043
       vertices: []
       indices: 
       edges: []
@@ -351,17 +309,17 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      AnubisJumpFall_0: -1501052418
-      AnubisJumpFall_1: 1797123822
-      AnubisJumpFall_10: -1543063053
-      AnubisJumpFall_2: -1346899904
-      AnubisJumpFall_3: -1627971683
-      AnubisJumpFall_4: -871510187
-      AnubisJumpFall_5: 800048870
-      AnubisJumpFall_6: -214286458
-      AnubisJumpFall_7: -871094442
-      AnubisJumpFall_8: -455697274
-      AnubisJumpFall_9: 407363692
+      AnubisJumpFall_0: -77209441
+      AnubisJumpFall_1: -1560420998
+      AnubisJumpFall_10: -1067685023
+      AnubisJumpFall_2: 1510573530
+      AnubisJumpFall_3: -1684960221
+      AnubisJumpFall_4: 167054311
+      AnubisJumpFall_5: 917870227
+      AnubisJumpFall_6: 1112412439
+      AnubisJumpFall_7: -1448816077
+      AnubisJumpFall_8: -1220181735
+      AnubisJumpFall_9: 1720081043
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
