@@ -111669,6 +111669,10 @@ PrefabInstance:
       propertyPath: _data._objectReferences.Array.data[1]
       value: 
       objectReference: {fileID: 1400487450}
+    - target: {fileID: 7259176717891013491, guid: 9fcea461e1c34784ba9c46dff39333be, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.261
+      objectReference: {fileID: 0}
     - target: {fileID: 7939628547424353286, guid: 9fcea461e1c34784ba9c46dff39333be, type: 3}
       propertyPath: m_Name
       value: Schalter for doors
@@ -136606,7 +136610,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 91840901091774991, guid: 7b31dd9380dc8e8498d7acff24558a9f, type: 3}
       propertyPath: orthographic size
-      value: 4
+      value: 3.2142856
+      objectReference: {fileID: 0}
+    - target: {fileID: 91840901091774991, guid: 7b31dd9380dc8e8498d7acff24558a9f, type: 3}
+      propertyPath: m_NormalizedViewPortRect.x
+      value: 0.2455036
+      objectReference: {fileID: 0}
+    - target: {fileID: 91840901091774991, guid: 7b31dd9380dc8e8498d7acff24558a9f, type: 3}
+      propertyPath: m_NormalizedViewPortRect.width
+      value: 0.5083933
+      objectReference: {fileID: 0}
+    - target: {fileID: 91840901091774991, guid: 7b31dd9380dc8e8498d7acff24558a9f, type: 3}
+      propertyPath: m_NormalizedViewPortRect.height
+      value: 0.99999994
       objectReference: {fileID: 0}
     - target: {fileID: 324509214600642553, guid: 7b31dd9380dc8e8498d7acff24558a9f, type: 3}
       propertyPath: _data._json
