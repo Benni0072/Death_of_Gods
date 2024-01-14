@@ -235,7 +235,7 @@ PrefabInstance:
     - target: {fileID: 8984909686393916688, guid: d3a01869a36c80b4585e0e4a7c9c6de7, type: 3}
       propertyPath: _data._objectReferences.Array.data[0]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1160453858}
     - target: {fileID: 8984909686393916688, guid: d3a01869a36c80b4585e0e4a7c9c6de7, type: 3}
       propertyPath: _data._objectReferences.Array.data[1]
       value: 
@@ -59945,6 +59945,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 288128491592405929, guid: 62b409d16c3a2b8459613eb9a6fd7cd7, type: 3}
+      propertyPath: orthographic size
+      value: 3.2142856
+      objectReference: {fileID: 0}
+    - target: {fileID: 288128491592405929, guid: 62b409d16c3a2b8459613eb9a6fd7cd7, type: 3}
       propertyPath: m_NormalizedViewPortRect.x
       value: 0
       objectReference: {fileID: 0}
@@ -59978,11 +59982,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3559174247733662059, guid: 62b409d16c3a2b8459613eb9a6fd7cd7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -5.237688
+      value: -1.6676911
       objectReference: {fileID: 0}
     - target: {fileID: 3559174247733662059, guid: 62b409d16c3a2b8459613eb9a6fd7cd7, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 3580.0498
+      value: 4180.05
       objectReference: {fileID: 0}
     - target: {fileID: 4292661307053954461, guid: 62b409d16c3a2b8459613eb9a6fd7cd7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -60026,7 +60030,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6367505309344511462, guid: 62b409d16c3a2b8459613eb9a6fd7cd7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.7299999
+      value: -1.6676911
       objectReference: {fileID: 0}
     - target: {fileID: 7112851356422718459, guid: 62b409d16c3a2b8459613eb9a6fd7cd7, type: 3}
       propertyPath: m_Name
@@ -60037,6 +60041,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 62b409d16c3a2b8459613eb9a6fd7cd7, type: 3}
+--- !u!1 &1160453858 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3473221284024350057, guid: 62b409d16c3a2b8459613eb9a6fd7cd7, type: 3}
+  m_PrefabInstance: {fileID: 1160453857}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1219836738
 GameObject:
   m_ObjectHideFlags: 0
@@ -60425,7 +60434,7 @@ MonoBehaviour:
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"parallaxAmount","value":{"$content":0.5,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
-    - {fileID: 0}
+    - {fileID: 1644655131}
 --- !u!4 &1568073686
 Transform:
   m_ObjectHideFlags: 0
