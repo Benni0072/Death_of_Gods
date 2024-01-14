@@ -2,7 +2,7 @@
     "name": "Controls",
     "maps": [
         {
-            "name": "Move",
+            "name": "Player",
             "id": "bc3e4c1c-2f7d-490c-bb85-1bf3ebbf9dcf",
             "actions": [
                 {
@@ -45,6 +45,24 @@
                     "name": "Collect",
                     "type": "Button",
                     "id": "d1806057-71cc-4031-be3c-af225e0c78f6",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Look up",
+                    "type": "Button",
+                    "id": "952d6e85-4fc9-4159-afc0-6149749d95ac",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Look down",
+                    "type": "Button",
+                    "id": "9b5a2e84-e06b-45a9-a16c-09a7717cd3db",
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
@@ -214,6 +232,50 @@
                     "processors": "",
                     "groups": "",
                     "action": "Collect",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "0ff89122-1c85-47fb-a738-91008c886e3f",
+                    "path": "<Gamepad>/leftStick/up",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Look up",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "131e1d61-72c5-4bde-905c-f5b0039d595c",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Look up",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "042127a1-7908-4b2a-9d5e-82fd9fd8d879",
+                    "path": "<Keyboard>/s",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Look down",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2b42c18e-7bfd-4e91-920b-de1a15f0afb0",
+                    "path": "<Gamepad>/leftStick/down",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Look down",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
