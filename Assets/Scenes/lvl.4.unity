@@ -131,9 +131,49 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 256793604547152059, guid: d3a01869a36c80b4585e0e4a7c9c6de7, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 256793604547152059, guid: d3a01869a36c80b4585e0e4a7c9c6de7, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2158934607381209060, guid: d3a01869a36c80b4585e0e4a7c9c6de7, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2158934607381209060, guid: d3a01869a36c80b4585e0e4a7c9c6de7, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2158934607381209060, guid: d3a01869a36c80b4585e0e4a7c9c6de7, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4217069287695472131, guid: d3a01869a36c80b4585e0e4a7c9c6de7, type: 3}
       propertyPath: m_Name
       value: Canvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 4670366218041775717, guid: d3a01869a36c80b4585e0e4a7c9c6de7, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4670366218041775717, guid: d3a01869a36c80b4585e0e4a7c9c6de7, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4699656912280244099, guid: d3a01869a36c80b4585e0e4a7c9c6de7, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4699656912280244099, guid: d3a01869a36c80b4585e0e4a7c9c6de7, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4699656912280244099, guid: d3a01869a36c80b4585e0e4a7c9c6de7, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5291874056955948725, guid: d3a01869a36c80b4585e0e4a7c9c6de7, type: 3}
       propertyPath: m_Pivot.x
@@ -215,6 +255,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5368462914845987493, guid: d3a01869a36c80b4585e0e4a7c9c6de7, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5368462914845987493, guid: d3a01869a36c80b4585e0e4a7c9c6de7, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6882299410834337084, guid: d3a01869a36c80b4585e0e4a7c9c6de7, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6882299410834337084, guid: d3a01869a36c80b4585e0e4a7c9c6de7, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6882299410834337084, guid: d3a01869a36c80b4585e0e4a7c9c6de7, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8984909686393916688, guid: d3a01869a36c80b4585e0e4a7c9c6de7, type: 3}
       propertyPath: _data._json
       value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Player","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
@@ -226,11 +286,12 @@ PrefabInstance:
         UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"ToMenuButton","value":{"$content":5,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
         UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"MuteSFXButton","value":{"$content":6,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
         UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"MuteMusicButton","value":{"$content":7,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
+        UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"masterSlider","value":{"$content":8,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Slider,
         UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 8984909686393916688, guid: d3a01869a36c80b4585e0e4a7c9c6de7, type: 3}
       propertyPath: _data._objectReferences.Array.size
-      value: 8
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 8984909686393916688, guid: d3a01869a36c80b4585e0e4a7c9c6de7, type: 3}
       propertyPath: _data._objectReferences.Array.data[0]
@@ -67219,7 +67280,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 288128491592405929, guid: 62b409d16c3a2b8459613eb9a6fd7cd7, type: 3}
       propertyPath: orthographic size
-      value: 4.4878054
+      value: 3.292683
       objectReference: {fileID: 0}
     - target: {fileID: 288128491592405929, guid: 62b409d16c3a2b8459613eb9a6fd7cd7, type: 3}
       propertyPath: m_NormalizedViewPortRect.x
