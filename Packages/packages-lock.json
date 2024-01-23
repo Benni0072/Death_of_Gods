@@ -265,11 +265,10 @@
       }
     },
     "com.unity.uiextensions": {
-      "version": "https://github.com/Unity-UI-Extensions/com.unity.uiextensions.git",
+      "version": "file:C:/Users/sophi/Downloads/com.unity.uiextensions-2.3.2",
       "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "855607ab678bb88178d2eea69032fe57a74270c8"
+      "source": "local",
+      "dependencies": {}
     },
     "com.unity.visualscripting": {
       "version": "1.9.0",
