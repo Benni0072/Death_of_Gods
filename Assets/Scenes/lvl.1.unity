@@ -111077,11 +111077,13 @@ PrefabInstance:
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"BoxPlatform","value":null,"typeHandle":{"Identification":"UnityEngine.GameObject,
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Platform","value":{"$content":6,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"cameraTarget","value":{"$content":7,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Transform,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"CheckpointActif","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"CheckpointSprite","value":{"$content":8,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 6216415558277266694, guid: 62b409d16c3a2b8459613eb9a6fd7cd7, type: 3}
       propertyPath: _data._objectReferences.Array.size
-      value: 8
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 6216415558277266694, guid: 62b409d16c3a2b8459613eb9a6fd7cd7, type: 3}
       propertyPath: _data._objectReferences.Array.data[1]
@@ -111114,7 +111116,7 @@ PrefabInstance:
     - target: {fileID: 6216415558277266694, guid: 62b409d16c3a2b8459613eb9a6fd7cd7, type: 3}
       propertyPath: _data._objectReferences.Array.data[8]
       value: 
-      objectReference: {fileID: 408132610}
+      objectReference: {fileID: 929646863}
     - target: {fileID: 6216415558277266694, guid: 62b409d16c3a2b8459613eb9a6fd7cd7, type: 3}
       propertyPath: _data._objectReferences.Array.data[9]
       value: 
