@@ -28,7 +28,7 @@ Transform:
   m_GameObject: {fileID: 2244248227517195426}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.8999996, y: -1.662, z: 4180.05}
+  m_LocalPosition: {x: 1.8999996, y: -1.6620001, z: 4180.05}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -182,7 +182,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.035583496, y: 0.45004785}
+  m_Offset: {x: 0.0004081726, y: 0.45004785}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -193,7 +193,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.8823147, y: 0.8946359}
+  m_Size: {x: 0.9526653, y: 0.8946359}
   m_EdgeRadius: 0
 --- !u!50 &2740296394016236586
 Rigidbody2D:
@@ -381,7 +381,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: -8235502474307792790, guid: d035b937f33864a8fa8fa55baf6351e6, type: 2}
   m_audioClip: {fileID: 8300000, guid: 99dd7e376d136c547a141cc5d18f5ff5, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.5
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -509,7 +509,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: -8235502474307792790, guid: d035b937f33864a8fa8fa55baf6351e6, type: 2}
   m_audioClip: {fileID: 8300000, guid: a26def7af4793cd4180556e176a0f945, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.7
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -5770,7 +5770,7 @@ Transform:
   m_GameObject: {fileID: 8570792969946180531}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.8999996, y: -1.662, z: 4180.05}
+  m_LocalPosition: {x: 1.8999996, y: -1.6620001, z: 4180.05}
   m_LocalScale: {x: 1.2625, y: 0.4875, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -5804,8 +5804,8 @@ Camera:
   m_LensShift: {x: 0, y: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: -0.18489584
-    y: -0.03333333
+    x: -0.1890625
+    y: -0.027777778
     width: 0.5
     height: 0.5
   near clip plane: 0.3
