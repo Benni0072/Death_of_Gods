@@ -985,7 +985,6 @@ RectTransform:
   m_Children:
   - {fileID: 1785078734}
   - {fileID: 2056344984}
-  - {fileID: 1351185718}
   - {fileID: 1224924784}
   - {fileID: 544823005}
   - {fileID: 1874508621}
@@ -996,6 +995,7 @@ RectTransform:
   - {fileID: 1214056647}
   - {fileID: 743693437}
   - {fileID: 250063644}
+  - {fileID: 1351185718}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
